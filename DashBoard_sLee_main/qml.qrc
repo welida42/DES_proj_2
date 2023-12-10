@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>DashBoardImg/needle-standard-sport.png</file>
+        <file>DashBoardImg/gauge-gauge-frame-sport-side.png</file>
+        <file>DashBoardImg/gauge-gauge-frame-sport-center.png</file>
+        <file>DashBoardImg/gauge-gauge-frame.png</file>
+        <file>DashBoardImg/car-highlights.png</file>
+        <file>DashBoardImg/bg-mask.png</file>
+        <file>DashBoardImg/battery.png</file>
+        <file>DashBoardImg/Connection.png</file>
+        <file>DashBoardImg/Warning.png</file>
+    </qresource>
+</RCC>
